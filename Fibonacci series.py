@@ -8,7 +8,7 @@ def fibo(n):
        
 if __name__ == '__main__':
      
-    n = int(input("Enter the index "))
+    n = int(input("Enter the no. of terms : "))
      
     print(fibo(n))
  
